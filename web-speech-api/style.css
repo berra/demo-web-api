@@ -1,0 +1,5 @@
+
+form > * {
+    padding: var(--s1);
+    font-size: var(--s2);
+}
